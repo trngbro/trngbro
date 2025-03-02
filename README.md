@@ -9,6 +9,7 @@ You can reach out to me via email at <a href="mailto:guenchunnia@googlemail.com"
 <br>
 <br>
 <br>
+<br>
 
 
 ## 📍About me
@@ -37,7 +38,7 @@ Our upcoming project [mocmocyen.com](https://www.mocmocyen.com/) is our baby on 
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=2bbc8a)
 
 
-## 👋 GitHub Stats
+## 📈 GitHub Stats
 
 ![](https://raw.githubusercontent.com/trngbro/trngbro/refs/heads/github-stats/generated/languages.svg)
 ![](https://raw.githubusercontent.com/trngbro/trngbro/refs/heads/github-stats/generated/overview.svg)
