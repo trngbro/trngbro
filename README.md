@@ -1,6 +1,6 @@
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/trngbro/trngbro/refs/heads/main/public/a27ba455-ff04-4d5a-ae10-a5930e46b343.gif" width="400" height="300" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/trngbro/trngbro/refs/heads/assets/2c903e90-7bce-41a3-80bc-ead8baf4e695.gif" width="400" height="300" />
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/trngbro/trngbro/refs/heads/main/public/bf682543-a61c-477c-9528-bcf96524d985.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/trngbro/trngbro/refs/heads/assets/05dec018-fbd0-4389-ac39-cff493dc1f9a.gif" width="30px">
 
 My name is Nghia and I'm a software developer 👨‍💻 <br>
 You can reach out to me via email at <a href="mailto:guenchunnia@googlemail.com"> guenchunnia@googlemail.com </a>
@@ -39,7 +39,8 @@ Our upcoming project [mocmocyen.com](https://www.mocmocyen.com/) is our baby on 
 
 ## 👋 GitHub Stats
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/trngbro?cardType=level&theme=vue&preferLogin=true)](https://git.io/awesome-stats-card)
+![](https://raw.githubusercontent.com/trngbro/trngbro/refs/heads/github-stats/generated/languages.svg)
+![](https://raw.githubusercontent.com/trngbro/trngbro/refs/heads/github-stats/generated/overview.svg)
 
 <br>
 
