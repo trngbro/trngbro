@@ -14,7 +14,7 @@ You can reach out to me via email at <a href="mailto:guenchunnia@googlemail.com"
 
 ## 📍About me
 
-Besides coding, I also maintain a personal website at [ntncorner.id.vn.](https://ntncorner.id.vn/)
+Besides coding, I also maintain a personal website at [ntncorner.works](https://ntncorner.works/)
 
 Our upcoming project [mocmocyen.com](https://www.mocmocyen.com/) is our baby on the way. This is a major product currently in the planning phase.
 
