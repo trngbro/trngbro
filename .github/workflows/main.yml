@@ -1,0 +1,50 @@
+name: Generate Stats Images
+
+on:
+  push:
+    branches: [ github-stats ]
+  schedule:
+    - cron: "5 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.8'
+        architecture: 'x64'
+        cache: 'pip'
+
+    - name: Install requirements
+      run: |
+        python3 -m pip install --upgrade pip setuptools wheel
+        python3 -m pip install -r requirements.txt
+
+    - name: Generate images
+      run: |
+        python3 --version
+        python3 generate_images.py
+      env:
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        EXCLUDED: ${{ secrets.EXCLUDED }}
+        EXCLUDED_LANGS: ${{ secrets.EXCLUDED_LANGS }}
+        EXCLUDE_FORKED_REPOS: true
+
+    - name: Commit to the repo
+      run: |
+        git config --global user.name "trngbro"
+        git config --global user.email "github-stats[bot]@ntncorner.works"
+        git add .
+        git commit -m "Update SVG information at $(date '+%H:%M %d/%m/%Y')" || true
+        git pull --rebase origin github-stats  # Thêm dòng này để tránh lỗi rejected
+        git push
