@@ -1,6 +1,6 @@
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/trngbro/trngbro/refs/heads/assets/2c903e90-7bce-41a3-80bc-ead8baf4e695.gif" width="400" height="300" />
+<img align="right" alt="GIF" src="https://trngbro.github.io/private/cat_dev.gif" width="300" height="300" />
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/trngbro/trngbro/refs/heads/assets/05dec018-fbd0-4389-ac39-cff493dc1f9a.gif" width="30px">
+# Hello, folks! <img src="https://trngbro.github.io/private/say_hi.gif" width="30px">
 
 My name is Nghia and I'm a software developer 👨‍💻 <br>
 You can reach out to me via email at <a href="mailto:guenchunnia@googlemail.com"> guenchunnia@googlemail.com </a>
