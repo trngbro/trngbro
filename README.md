@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://trngbro.github.io/private/cat_dev.gif" width="300" height="300" />
+<img align="right" alt="GIF" src="https://trngbro.github.io/private/cat_dev.gif" width="333" height="333" />
 
 # Hello, folks! <img src="https://trngbro.github.io/private/say_hi.gif" width="30px">
 
