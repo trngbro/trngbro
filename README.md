@@ -8,8 +8,6 @@ You can reach out to me via email at <a href="mailto:guenchunnia@googlemail.com"
 <br>
 <br>
 <br>
-<br>
-<br>
 
 
 ## 📍About me
