@@ -15,7 +15,7 @@ I enjoy building reliable systems, clean APIs, and scalable web applications.
 ## 📍 About me
 
 Besides coding, I maintain a personal website at  
-🌐 **[ntncorner.works](https://ntncorner.works/)**
+🌐 **[itschunnia.tech](https://www.itschunnia.tech/)**
 
 I focus mainly on:
 - Backend & API development  
